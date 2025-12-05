@@ -1,1 +1,5 @@
-
+# Ignore temporary backups and node deps
+public/assets/*.bak
+node_modules/
+.DS_Store
+*.log
